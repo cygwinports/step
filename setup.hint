@@ -1,5 +1,0 @@
-category: KDE Science
-requires: libcln6 libgcc1 gsl libkdecore5 libqalculate5 libQtCore4 libQtGui4 libQtOpenGL4 libQtXml4 libstdc++6
-external-source: kdeedu
-sdesc: "KDE physics simulator"
-ldesc: "KDE education suite"
