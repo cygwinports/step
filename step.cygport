@@ -2,7 +2,7 @@ inherit kf5
 
 NAME="step"
 VERSION=16.08.3
-RELEASE=1
+RELEASE=2
 CATEGORY="Science"
 SUMMARY="KDE physics simulator"
 DESCRIPTION="Part of the KDE education suite"
